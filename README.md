@@ -25,7 +25,7 @@
 - Make sure to invoke or call the function when creating an instance
 - Make sure to have Python enivornment variables set up or you will have to use py to run the code and pip will not be recongized
   
-## Technology Used
+## Technologies Used
 - Python - version 3
 - PyCharm Community Edition 2023
 
