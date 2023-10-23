@@ -7,7 +7,6 @@
 * [Important](#important)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 <!-- * [License](#license) -->
 
