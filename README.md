@@ -4,9 +4,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Important](#important)
+* [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
